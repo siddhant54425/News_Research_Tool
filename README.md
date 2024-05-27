@@ -15,10 +15,14 @@ This is a user-friendly news research tool designed for effortless information r
 
 ## Installation
 
+
+https://github.com/siddhant54425/News_Research_Tool/assets/97940044/8a39776c-186b-426b-90e2-8a5f13fff5d5
+
+
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/siddhant54425/News_Research_Tool
+  git clone
 ```
 2.Navigate to the project directory:
 
